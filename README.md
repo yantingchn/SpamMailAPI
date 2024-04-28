@@ -16,6 +16,10 @@ The Spam Check API is designed to analyze SMS messages and return a spam classif
     ├── configs                 # Configuration files
     │   ├── config.yaml         # Misc config (url... etc.)
     │   └── model.yaml          # Deployed Model config
+    ├── data                    # Data folder
+    │   ├── dataset.csv         # spam mail dataset
+    ├── doc                     # Document folder
+    │   ├── design.md           # design document
     ├── model_training.ipynb    # Main model traing notebook
     ├── model.py                # Model config and pipeline 
     ├── utility.py              # Tool and utility functions
