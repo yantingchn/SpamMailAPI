@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yantingchn/Documents/GitHub/zilo-task/mlruns/0/d1024ce26b8d4e5a80c5b68be7d62e08/artifacts
+end_time: 1707477948657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1024ce26b8d4e5a80c5b68be7d62e08
+run_name: casual-foal-634
+run_uuid: d1024ce26b8d4e5a80c5b68be7d62e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707477944501
+status: 3
+tags: []
+user_id: yantingchn

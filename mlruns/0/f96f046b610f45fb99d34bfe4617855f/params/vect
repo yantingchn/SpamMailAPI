@@ -1,0 +1,7 @@
+CountVectorizer(stop_words=['i', 'me', 'my', 'myself', 'we', 'our', 'ours',
+                            'ourselves', 'you', "you're", "you've", "you'll",
+                            "you'd", 'your', 'yours', 'yourself', 'yourselves',
+                            'he', 'him', 'his', 'himself', 'she', "she's",
+                            'her', 'hers', 'herself', 'it', "it's", 'its',
+                            'itself', ...],
+                tokenizer=<bound method DataPreprocessing.tokenization of <utility.DataPreprocessing object at 0x2873bf1f0>>)

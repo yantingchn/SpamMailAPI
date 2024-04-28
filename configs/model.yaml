@@ -1,0 +1,10 @@
+encoded_label:
+  - "ham"
+  - "spam"
+
+deployed_model:
+  model_name: "sk-learn-count-model"
+  model_version: "1"
+  alias: "champion"
+
+
